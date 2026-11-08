@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fast GST Refund provides an online JSON generator and related guides that create the Statement 3 and Annexure B files required for GST export refund applications in India. Users enter export invoices, bank receipts and purchase invoices, receive free checks against official GST rules, and can download both JSON files for a one‑time payment of ₹499 + GST per GSTIN and refund period. The service is aimed at exporters, chartered accountants, SaaS companies, freelancers and accounting practices that prepare refund claims.
+Fast GST Refund provides a web-based JSON generator for GST export refund Statement 3 and Annexure B files, along with free guides, checklists, and tools for Indian service exporters and their chartered accountants. The service offers a low-cost download of generated JSON files (₹499 + GST) and plans to add connectors for accounting software. Operated by Xeloni Zarakas Private Limited, it aims to simplify GST refund preparation without requiring Excel.
 
-**Areas:** GST refund · JSON generator · Exporters · Chartered accountants · SaaS companies · Accounting practices
+**Areas:** GST · Refund · JSON · Export · India
 
 ## Fast GST Refund on APIs.io
 
@@ -112,21 +112,23 @@ The permissions the API asks for.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://fastgstrefund.com/)
-- [API reference](https://fastgstrefund.com/guides/)
+- [Getting started](https://fastgstrefund.com/#get-started)
+- [API reference](https://fastgstrefund.com/openapi.json)
+- [Blog](https://fastgstrefund.com/guides/)
 - [Terms of service](https://fastgstrefund.com/terms/)
 - [Privacy policy](https://fastgstrefund.com/privacy/)
 
 ## API Evangelist rating
 
-**Kin Score 37.9** — thin · rubric 0.27.0 · scored 2026-11-07
+**Kin Score 41.8** — developing · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 66.1 |
 | Contract quality | 45.3 |
 | Contract governance | 65.5 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 25.5 |
+| Developer ergonomics | 44.5 |
 | Access clarity | 21.1 |
 
 **Agent readiness 44.8** — agent-ready (gated down from agent-native)
